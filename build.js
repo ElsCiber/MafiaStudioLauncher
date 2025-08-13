@@ -85,7 +85,7 @@ class Index {
                 },
                 nsis: {
                     oneClick: true,
-                    allowToChangeInstallationDirectory: true,
+                    allowToChangeInstallationDirectory: false,
                     createDesktopShortcut: true,
                     runAfterFinish: true
                 },

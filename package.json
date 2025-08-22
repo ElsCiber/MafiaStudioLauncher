@@ -1,7 +1,7 @@
 {
     "name": "Mafia-Launcher",
     "preductname": "Mafia Launcher",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Launcher Oficial de Mafia Studios",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "elsciber01@gmail.com",
         "url": "https://github.com/ElsCiber/MafiaStudioLauncher"
     },
-    "url": "http://185.144.156.218",
+    "url": "http://172.235.150.171",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
